@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimrod-shehan&label=Profile%20views&color=0e75b6&style=flat" alt="nimrod-shehan" /> </p>
 
-- 🔭 I’m currently working on **MERN**
+I am a passionate and curious software engineering student, always eager to learn and explore new technologies. My journey in IT began in 2019 with a Certificate and Diploma in Information and Communication Technology, followed by A/L studies in ICT. In 2022, I started the Pearson BTEC Higher National Diploma (HND) in Software Engineering at Esoft Metro Campus, and I am now heading into my final year.
 
-- 🌱 I’m currently learning **React, Node.js**
+Beyond academics, I work as a freelance web developer, building dynamic and scalable applications. I specialize in React, Spring Boot, and PostgreSQL, with a strong focus on full-stack development, security, and cloud deployment. Some of my notable projects include:
 
-- 👯 I’m undergarudate at **Esoft Metro Campus**
+Care Home Management System – A full-stack platform for donations, event planning, and care home management, deployed with AWS and Cloudflare.
 
-- 🤝 I’m looking for help with **Projects**
+EvoFuture Website – A portfolio site with JWT authentication, admin panel, and project/blog management, hosted on AWS.
 
-- 💬 Ask me about **Programming**
-
-- 📫 How to reach me **nimrod.shehan247@gmail.com**
+Other projects include eCommerce platforms, hospital management systems, and a MERN stack blog application.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
