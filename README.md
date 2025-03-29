@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimrod-shehan&label=Profile%20views&color=0e75b6&style=flat" alt="nimrod-shehan" /> </p>
 
-I am a passionate and curious software engineer, always eager to learn and explore new technologies. My journey in IT began in 2019 with a Certificate and Diploma in Information and Communication Technology, followed by A/L studies in ICT. In 2022, I started the Pearson BTEC Higher National Diploma (HND) in Software Engineering at Esoft Metro Campus, and I am now heading into my final year.
+I am a passionate and curious software engineering student, always eager to learn and explore new technologies. My journey in IT began in 2019 with a Certificate and Diploma in Information and Communication Technology, followed by A/L studies in ICT. In 2022, I started the Pearson BTEC Higher National Diploma (HND) in Software Engineering at Esoft Metro Campus, and I am now heading into my final year.
 
 Beyond academics, I work as a freelance web developer, building dynamic and scalable applications. I specialize in React, Spring Boot, and PostgreSQL, with a strong focus on full-stack development, security, and cloud deployment. Some of my notable projects include:
 
